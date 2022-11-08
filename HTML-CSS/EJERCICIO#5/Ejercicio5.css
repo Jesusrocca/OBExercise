@@ -1,0 +1,23 @@
+.misimagenes{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    background-color: rgb(81, 15, 151);
+    width: 100%;
+    justify-content: center;
+    padding: 20px;
+    
+}
+
+.imagen{
+    width: 300px;
+    height: 150px;
+    
+}
+.imagen:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+h1{
+    text-align: center;
+}
